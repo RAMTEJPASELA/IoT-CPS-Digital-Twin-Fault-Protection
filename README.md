@@ -1,22 +1,22 @@
-# 🛡️ IoT-Driven Cyber-Physical System and Digital Twin for Real-Time Bus Fault Protection  
+# 🛡️ IoT-Driven Cyber-Physical Digital Twin (CPDT) for Real-Time Bus Fault Protection in a 3-Bus IEEE Power System  
 
-This project implements an **IoT-enabled Cyber-Physical System (CPS)** integrated with **Digital Twin (DT)** technology for real-time fault detection in a simulated **3-bus IEEE system**. It enhances grid resilience by detecting faults using **Raspberry Pi** and **ThingSpeak** for remote monitoring.  
+This project showcases a cutting-edge implementation of **Real-Time Fault Detection** using an **IoT-enabled Cyber-Physical Digital Twin (CPDT)** framework. By integrating **Raspberry Pi** controllers, **MATLAB Simulink**, and the **ThingSpeak** IoT platform, the system provides a scalable and cost-effective solution to enhance the resilience of power systems.  
 
-### 🔎 **Project Overview**  
-- **Real-Time Fault Detection:** Achieved a response time of **15 seconds** for fault detection.  
-- **Cyber-Physical System Integration:** Leveraged Raspberry Pi for physical system monitoring and decision-making.  
-- **Digital Twin Simulation:** Developed a MATLAB Simulink model for real-time simulation and fault diagnosis.  
-- **Cloud Monitoring:** Integrated ThingSpeak for real-time data visualization and fault notifications.  
+In modern smart grids, traditional fault detection methods often struggle to manage the complexities introduced by **renewable energy integration** and **bidirectional power flow**. Static protection mechanisms lack the adaptability required for reliable fault detection and isolation. To address these challenges, this project leverages an **IoT-driven CPDT framework** that accurately detects, isolates, and visualizes faults in real time within a simulated **3-bus IEEE power system**.  
+
+The proposed **Cyber-Physical Digital Twin (CPDT)** ensures real-time monitoring and fault analysis by continuous data acquisition through **Raspberry Pi** controllers and remote monitoring via **ThingSpeak** enables a rapid fault detection response time of **15 seconds**.  
+
+This solution not only enhances operational resilience but also provides a scalable model for future smart grids, ensuring faster fault diagnosis and minimizing system downtime. The project's implementation demonstrates the potential of CPDT in ensuring grid reliability and adaptability in complex energy landscapes.  
 
 ---
 
 ## 🎥 **Video Demonstration**  
-Experience the working of the project through this video demonstration:  
+Experience the project in action through this detailed video demonstration:  
 [Watch the Video](https://youtu.be/1SOuRba_OvU)  
 
 ---
 
 ## 📧 **Contact Me**  
-For any queries or further discussions, feel free to reach out:  
+For any queries (or) further discussions, feel free to reach out:  
 - **Email:** [ramtejpasela@gmail.com](mailto:ramtejpasela@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/paselaramtej](https://www.linkedin.com/in/paselaramtej)  
