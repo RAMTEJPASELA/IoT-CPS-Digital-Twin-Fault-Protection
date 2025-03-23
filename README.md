@@ -10,7 +10,7 @@ This solution not only enhances operational resilience but also provides a scala
 
 ---
 
-## 🎥 **Video Demonstration**  
+## 🎥 **Video Demonstration**
 Watch how the IoT-enabled CPDT system detects and responds to faults in real time:  
 [Watch the Video](https://youtu.be/1SOuRba_OvU)  
 
