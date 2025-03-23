@@ -1,4 +1,4 @@
-# ⚡ IoT-Driven Cyber-Physical Digital Twin (CPDT) for Real-Time Bus Fault Protection in a 3-Bus IEEE Power System  
+# 🔎 IoT-Driven Cyber-Physical Digital Twin (CPDT) for Real-Time Bus Fault Protection in a 3-Bus IEEE Power System  
 
 This project showcases a cutting-edge implementation of **Real-Time Fault Detection and Protection** using an **IoT-enabled Cyber-Physical Digital Twin (CPDT)** framework. By integrating **Raspberry Pi** controllers, **MATLAB Simulink**, and the **ThingSpeak** IoT platform, the system provides a scalable and cost-effective solution to enhance the resilience of power systems.  
 
