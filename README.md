@@ -19,4 +19,4 @@ Watch how the IoT-enabled CPDT system detects and responds to faults in real tim
 ## 📧 **Contact Me**  
 For any queries (or) further discussions, feel free to reach out:  
 - **Email:** [ramtejpasela@gmail.com](mailto:ramtejpasela@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/paselaramtej](https://www.linkedin.com/in/paselaramtej)  
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/paselaramtej)  
